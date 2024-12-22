@@ -2,4 +2,4 @@
 
 ## About this project
 
-Practica usando [Laragon](https://laragon.org/) como herramienta para crear entornos de desarrollo, siendo este una alternativa para [XAMP](https://www.apachefriends.org/es/index.html), como lenguaje del cual se pondrá en pratica será [PHP](https://www.php.net/manual/es/intro-whatis.php) trabajando en Laravel[Laravel](https://laravel.com/) como famework y usando nuevas practicas para en Front-end como el Back-end tomadas de las documentaciones oficiales y seguimiento de un curso de Udemy.
+Practica usando [Laragon](https://laragon.org/) como herramienta para crear entornos de desarrollo, siendo este una alternativa para [XAMP](https://www.apachefriends.org/es/index.html), como lenguaje del cual se pondrá en pratica será [PHP](https://www.php.net/manual/es/intro-whatis.php) trabajando en [Laravel](https://laravel.com/) como famework y usando nuevas practicas para en Front-end como el Back-end tomadas de las documentaciones oficiales y seguimiento de un curso de Udemy.
