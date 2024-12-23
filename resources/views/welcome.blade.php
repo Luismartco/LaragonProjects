@@ -7,11 +7,6 @@
 </head>
 <body>
     <h1>Inicio</h1>
-    <ul>
-        <li><a href="<?= route('perfil')?>">Perfil</a></li>
-        <li><a href="<?= route('contacto')?>">Contacto</a></li>
-        <li><a href="/">Home</a></li>
-        <li><a href="">Aqui falta xd</a></li>
-    </ul>
+    @include('partials.navigation')
 </body>
 </html>
