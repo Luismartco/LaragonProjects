@@ -1,9 +1,12 @@
-<x-layout meta-title="Otra vista" meta-description="Descripción de la otra vista">
-
-    <x-partials.navigation />
-    <h1>This is otra vista</h1>
-
-    <x-slot:sidebar>
-        home Sidebar
-    </x-slot:sidebar>
-</x-layout>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Aqui se mostrará la otra vista del blade</h1>
+    @include('partials.navigation')
+</body>
+</html>
